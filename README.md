@@ -2,8 +2,7 @@
 
 > **A complete end-to-end secure file storage & sharing system built with AES-GCM encryption, IPFS, and Ethereum Smart Contracts.**
 
-![SecureShare Preview](./assets/preview.png)
-*(Note: Please create an `assets` folder in your project directory and add your project screenshot as `preview.png`)*
+![SecureShare Preview](https://placehold.co/1000x400/0d1117/58a6ff?text=SecureShare+Preview+%28Insert+Your+Screenshot+Here%29)
 
 ---
 
@@ -78,11 +77,10 @@ npm run dev
 ## 🖼️ Application Screenshots
 
 ### Dashboard Area
-![Dashboard](./assets/dashboard.png)
-*(Add a screenshot of your dashboard here)*
+![Dashboard](https://placehold.co/800x400/0d1117/3fb950?text=Dashboard+Screenshot)
 
 ### File Upload & Encryption
-![Upload](./assets/upload.png)
+![Upload](https://placehold.co/800x400/0d1117/a371f7?text=Upload+Screenshot)
 *(Add a screenshot of your upload process here)*
 
 ---
